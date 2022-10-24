@@ -4,7 +4,7 @@ This repo is created with aim to help beginners in participating to HACKTOBERFES
 
 You can add any resource related to data science specially Python.
 
-> We all accepting all contributions!!!
+> We all accepting all legit contributions!!!
 
 ## How to contribute hacktoberfest??
 - Fork this repository
